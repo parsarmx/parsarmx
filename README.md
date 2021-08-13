@@ -1,4 +1,4 @@
-# { I belive code is Art that does somting }
+# { I belive code is Art that does somthing }
 anyway "Hi friend"👋
 
 
@@ -8,7 +8,7 @@ anyway "Hi friend"👋
 - ⚡ Fun fact: If you can read this , you are too Damn Close
 
 
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsarmx&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=parsarmx&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsarmx&layout=compact&theme=radical)](https://github.com/parsarmx/github-readme-stats)
 
