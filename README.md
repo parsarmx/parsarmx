@@ -7,4 +7,7 @@ anyway "Hi friend"👋
 - 📫 How to reach me: [Email](pramezani92@gmail.com) [Telegram](https://t.me/immortaldudee)
 - ⚡ Fun fact: If you can read this , you are too Damn Close
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/python.png"></code>
+
+<a href="https://github.com/parsarmx/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.parsarmx.vercel.app/api?username=parsarmx&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Parsa's github stats" />
+</a>
