@@ -8,5 +8,6 @@ anyway "Hi friend"👋
 - ⚡ Fun fact: If you can read this , you are too Damn Close
 
 
-[![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsarmx)](https://github.com/parsarmx/github-readme-stats)
+![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsarmx&show_icons=true&theme=radical)
+
 
