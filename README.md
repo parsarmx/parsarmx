@@ -1,4 +1,4 @@
-### I belive code is Art that does somting
+# I belive code is Art that does somting
 ## anyway "Hi friend"👋
 
 <!--
