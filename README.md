@@ -10,4 +10,5 @@ anyway "Hi friend"👋
 
 ![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsarmx&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsarmx&layout=compact)](https://github.com/parsarmx/github-readme-stats)
 
