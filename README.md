@@ -2,8 +2,7 @@
 anyway "Hi friend"👋
 
 
-- 🔭 I’m currently working on no where
-- 🌱 I’m currently learning about BACKEND
+- 🔭 I’m currently working with Django
 - 📫 How to reach me: [Email](pramezani92@gmail.com) Or [Telegram](https://t.me/immortaldudee)
 
 
